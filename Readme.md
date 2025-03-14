@@ -1,9 +1,7 @@
 # Python for Geospatial Data Workshop
 
 ## Introduction
-This repo contains the materials for the Python for Geospatial Data Workshop. There are two topics covered in this repo:
-1. Calculating Zonal Statistics
-2. Parallel raster computation using Dask
+This repo contains the materials for the Python for Geospatial Data Workshop on 12-13 March 2025.
 
 ## How to run this notebook?
 1. Prepare the environment. Use tutorial in following [link](https://carpentries-incubator.github.io/geospatial-python/index.html). Note: you can skip installing `mamba`
