@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+*.cpg
+*.pyc
+*.dbf
+*.prj
+*.shp
+*.shx
+*.png
+*.tif
+.DS_Store
+.venv
